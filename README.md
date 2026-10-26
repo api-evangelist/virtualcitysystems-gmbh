@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-virtualcitySYSTEMS GmbH is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://vc.systems/en/
+Virtual City Systems GmbH, founded in Chemnitz in 2005, provides digital 3D city models and urban simulation solutions. Their platform enables municipalities, planners, and developers to create, visualize, and analyze digital twins of urban environments, supporting use cases such as blast wave simulation, infrastructure planning, and public engagement. The company emphasizes open data, technical depth, and innovative urban planning tools, positioning itself as a leading provider in the digital twin space.
+
+**Areas:** Company · DigitalTwin · UrbanPlanning · 3DModels · Simulation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://vc.systems/en/)
+- [Documentation](https://help.vc.systems/)
+- [Blog](https://vc.systems/en/blog/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/virtualcitysystems-gmbh/](https://apis.io/providers/virtualcitysystems-gmbh/).
